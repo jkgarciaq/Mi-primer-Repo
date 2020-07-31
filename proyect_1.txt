@@ -4,3 +4,6 @@ Y hoy estoy cumppliendo años, 30 para ser más especifico.
 Seguimos evaluando este proyecto, esta tercera linea permite probar un commit sin mensaje
 para insertar ese mensaje en VIM uso esc + i
 y para salir de VIM uso esc + shift + z + z
+
+este es una edición para la rama cabecera
+
