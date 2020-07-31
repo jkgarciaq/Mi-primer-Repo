@@ -7,3 +7,8 @@ y para salir de VIM uso esc + shift + z + z
 
 este es una edición para la rama cabecera
 
+
+
+
+Un nuvo merge realizado
+
