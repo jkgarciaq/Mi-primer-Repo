@@ -5,10 +5,7 @@ Seguimos evaluando este proyecto, esta tercera linea permite probar un commit si
 para insertar ese mensaje en VIM uso esc + i
 y para salir de VIM uso esc + shift + z + z
 
-<<<<<<< HEAD
 pero aqui es una edición en la rama master, que será incluido con el 
 con el doc de la rama cabecera y haremos finalmente un MERGE
-=======
 este es una edición para la rama cabecera
 
->>>>>>> cabecera
